@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "firebase use --add portfolio-bootstrap5",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
